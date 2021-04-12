@@ -1,0 +1,31 @@
+.proizvodstvo3 h5 {
+    font-family: Gilroy;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 28px;
+    position: absolute;
+    margin-top: 25%;
+    margin-left: 40%;
+  
+    color: #ffffff;
+  }
+  .proizvodstvo3 {
+    background: url(./field.png) center/ cover no-repeat;
+    width: 100%;
+    height: 400px;
+    background-blend-mode: multiply;
+    background-color: rgba(0, 0, 0, 0.486);
+    margin-bottom: 5%;
+    position: relative;
+    margin-top: 5%;
+  }
+
+  .proiz {
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+  }
+  .lemon{
+      height: 273px;
+  }

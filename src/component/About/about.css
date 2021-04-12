@@ -1,0 +1,52 @@
+@import url("https://cdn.rawgit.com/mfd/09b70eb47474836f25a21660282ce0fd/raw/e06a670afcb2b861ed2ac4a1ef752d062ef6b46b/Gilroy.css");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+
+.mainpicture{
+    display: flex;
+    margin:auto;
+}
+
+.aboutcompany{
+    text-align: center;
+    color: black;
+    font-size: 3vh;
+}
+
+.ourhistiry{
+    color: white;
+}
+
+.history{
+    text-align: center;
+    font-size: 14px;
+}
+
+.bgpicture{
+    position: absolute;
+    z-index: -1;
+}
+
+.years{
+    display: flex;
+    grid-template-columns: 3fr 3fr 3fr 3fr 3fr 3fr;
+    width: 90%;
+    justify-content: space-between;
+    margin-top: 2%;
+    margin: auto;
+    color: white;
+}
+
+.year{
+    align-items: center;
+}
+
+.circle{
+    position: absolute;
+    margin-left: 2.3%;
+    margin-top: 3.2%;
+}
+
+.prosperities{
+    margin-top: 8%;
+}

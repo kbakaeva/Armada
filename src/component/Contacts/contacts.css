@@ -1,0 +1,24 @@
+.sides{
+    display: grid;
+    grid-template-columns: 3fr 3fr;
+    width: 90%;
+    margin: auto;
+}
+
+.side{
+    display: grid;
+    grid-template-columns: 1fr 8fr;
+}
+
+.contact{
+    color: black;
+    font-size: 2vh;
+}
+
+.contactsicon{
+    margin-top: 48%;
+}
+
+.map{
+    margin-top: 10%;
+}

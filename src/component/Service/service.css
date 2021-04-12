@@ -1,0 +1,163 @@
+@import url("https://cdn.rawgit.com/mfd/09b70eb47474836f25a21660282ce0fd/raw/e06a670afcb2b861ed2ac4a1ef752d062ef6b46b/Gilroy.css");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+
+html, body{
+    padding: 0%;
+    margin: 0%;
+}
+
+body{
+    font-family: Gilroy;
+}
+
+.up{
+    display: flex;
+    justify-content: space-between;
+    background-color: #65256f;
+    padding: 8px;
+}
+
+span{
+    margin-left: 10px;
+}
+
+.text{
+    color: #FFB700;
+    margin-left: 20px;
+}
+
+.support{
+    color: white;
+}
+ 
+span{
+     color: #ffb700;
+    margin-right: 20px;
+ }
+
+ 
+.down{
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+
+.down img{
+     width: 100px;
+     margin-left: 20px;
+ }
+
+button{
+    margin-left: 16px;
+    background-color: #65256f;
+    color: white;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-right: 20px;
+    padding-top: 4px;
+ }
+
+h2{
+    display: flex;
+    justify-content: center;
+    font-size: 34px;
+}
+
+.boxes{
+    width: 70.6%;
+    margin: auto;
+}
+
+.lil_box{
+    position: relative;
+}
+.box_name{
+    color: white;
+    position: absolute;
+    bottom: 15px;
+    left: 35px;
+}
+
+
+.upside{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: nowrap;
+}
+
+.upside img{
+    width: 300px;
+    padding-left: 10px;
+}
+
+#cow{
+    height: 562px;
+}
+
+.square{
+    display: flex;
+    justify-content: space-around;
+}
+
+.downside{
+    display: flex;
+    justify-content: space-between;
+    align-content: center;
+}
+
+.downside img{
+     height: 278px;
+ }
+
+ #man{
+     width:610px;
+     padding-right: 10px;
+ }
+
+ /* .downside img:nth-child(2){
+     width: 601px;
+ } */
+
+.cards{
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+}
+
+.description{
+    font-size: 16px;
+    color: black;
+}
+
+h4{
+    display: flex;
+    justify-content: center; 
+    padding-top: 40px;
+    font-size: 30px;
+ }
+
+ h5{
+    display: flex;
+    justify-content: center; 
+    font-size: 14px;
+    font-style: normal;
+ }
+
+ .form{
+     display: flex;
+     justify-content: center;
+     padding-bottom: 40px;
+ }
+
+input{
+    margin-left: 20px;
+    height: 40px;
+    text-align: left;
+    color: #737272;
+    background-color: #ECE8E8;
+    padding-left: 8px;
+}
+
+

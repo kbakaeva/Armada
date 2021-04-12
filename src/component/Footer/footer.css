@@ -1,0 +1,16 @@
+.last{
+    display: flex;
+    justify-content: space-around;
+    background-color: #3A3A3A;
+    padding-bottom: 40px;
+    padding-top: 40px;
+}
+
+.sometext{
+    font-size: 14px;
+}
+
+p{
+    color: white;
+    font-size: 24px;
+}
